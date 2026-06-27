@@ -1,0 +1,6 @@
+{
+  "name": "AI 골프 스윙 분석기",
+  "description": "세계적인 골프 코칭 전문가와 컴퓨터 비전 기술이 결합되어, 업로드한 스윙 영상을 어드레스, 백스윙, 임팩트, 피니시 단계별로 정밀 분석하고 맞춤 피드백을 제공하는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
